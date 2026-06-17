@@ -1,0 +1,7 @@
+Contexto: Michele Miranda, fundadora MJTB Labs, cursando MBA AI+BigData USP (ICMC São Carlos). 
+Ambiente: Jupyter Notebook local + VS Code + GitHub. Não usa Google Colab.
+Perfil: visão estratégica sólida, júnior em código — precisa de passo a passo completo sempre.
+Curso atual: Curso 0 — Nivelamento Python (pré-aulas, antes de 04/07/2026).
+Conteúdo: computadores, algoritmos, Python básico, variáveis, condicionais, laços, listas, tuplas.
+Regra: sempre que envolver código ou ferramenta nova, dar passo a passo completo com comandos exatos.
+Regra: otimizar troca de mensagens — respostas completas, sem perguntas desnecessárias.

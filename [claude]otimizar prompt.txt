@@ -1,0 +1,24 @@
+
+
+
+
+
+
+Ótima iniciativa, Michele. Um bom template de entrada reduz ambiguidade, elimina perguntas de esclarecimento e me permite executar com precisão já no primeiro turn. Aqui está:**Como usar na prática:**
+
+Preencha só os blocos que mudam. Como já tenho seu contexto salvo (MJTB Labs, ASA Comex, EPRA, Eduardo Aló, stack Python/Selenium), você não precisa repetir isso a cada vez — só mencione se algo mudou.
+
+**Exemplos rápidos de prompts bem formados:**
+
+> `## TAREFA` — Gerar script Python para baixar PDF do e-CAC
+> `## ENTREGÁVEL` — Código com comentários
+> `## RESTRIÇÕES` — Python 3.11, Selenium, passo a passo (primeira vez)
+
+ou
+
+> `## TAREFA` — Ajustar proposta ASA Comex para incluir cláusula de reajuste anual
+> `## ENTREGÁVEL` — Documento Word para download
+> `## ARQUIVOS` — [cola o texto atual]
+
+**Quando abrir novo chat:** quando a tarefa envolver um projeto diferente dos dois atuais, ou quando a conversa já tiver mais de 30 mensagens.
+

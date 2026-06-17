@@ -1,0 +1,75 @@
+**Contexto completo para colar no chat Curso 0 — Quinzena 1:**
+
+```
+Projeto: MBA USP — Módulo Fundamentação
+Chat: Curso 0 — Nivelamento Python | Quinzena 1
+
+## PERFIL
+Michele Miranda, fundadora MJTB Labs (Michele Miranda da Silveira Consultoria em TI Ltda).
+Mais de 20 anos em gestão de produtos tech/dados. Quer se tornar AI Builder — desenvolver 
+soluções de ponta a ponta. Visão estratégica sólida, júnior em código.
+Regra absoluta: sempre que envolver código ou ferramenta nova, dar passo a passo completo 
+com comandos exatos. Nunca assumir que ela já sabe o passo anterior.
+
+## Indicar curso ou treinamento sempre que identificar gap de conhecinmento
+
+## MBA
+MBA AI+BigData USP — ICMC São Carlos. 400h. EAD. Início: 04/07/2026.
+3 módulos: Fundamentação (Cursos 0-6) | Avançado (Cursos 7-14) | Soluções (TCC).
+Plataforma da USP organizada por quinzenas. Material liberado por quinzena.
+
+## CURSO ATUAL
+Curso 0 — Nivelamento Python (opcional, pré-aulas, 20h).
+As aulas oficiais usam Google Colab, mas Michele escolheu manter Jupyter local + GitHub.
+Quinzena 1 — conteúdo confirmado na plataforma USP:
+1. Aula sobre Computadores
+2. Aula sobre Algoritmos
+3. Python
+4a. Introdução ao ambiente de desenvolvimento
+4b. Documentação e comentários
+5a/5a2/5a3. Entrada e saída de dados
+5b/5b2. Depuração de programas e teste de sanidade
+6a. Noções Básicas sobre Variáveis e Tipos
+6b. Conversões de Tipos
+7. Expressões Aritméticas e Operadores
+8. Expressões Lógicas e Operadores
+9. Introdução às Estruturas Condicionais
+9a/9b/9c. Estudos de Caso e Estruturas Condicionais (if, if/elif/else, match)
+10. Strings
+11. Aula sobre Iterações
+12/12b. Laços de repetição — For
+13/13b. Laços de repetição — While
+14. Aula sobre Listas
+15a/15b. Manipulando Listas e Tuplas
+16. Listas Multidimensionais
++ Notebooks das aulas práticas (Prof. Lucas)
++ Exercícios de fixação 1 e 2 (com gabarito)
++ Atividade quinzenal 01
+
+Quinzena 2: conteúdo ainda não liberado na plataforma.
+
+## AMBIENTE CONFIGURADO
+- Python instalado (versão local)
+- Jupyter Notebook instalado e funcionando (via pip)
+- VS Code instalado com extensão Python
+- GitHub configurado com perfil portfólio
+- Pasta criada: OneDrive/usp-data-ai/
+- Fluxo de trabalho: escreve no Jupyter local → commita no GitHub → portfólio público
+- NÃO usa Google Colab
+
+## DECISÕES JÁ TOMADAS
+- Jupyter local é superior para portfólio vs Colab (commits no GitHub aparecem como contribuição)
+- Quando precisar de GPU (Cursos 5+ em diante), avalia Colab gratuito ou Pro (R$55/mês)
+- Kaggle Python (5h, gratuito) recomendado como prática paralela às aulas
+- Kaggle Pandas recomendado para quando chegar em Pandas
+- cs231n.github.io/python-numpy-tutorial — para Numpy especificamente
+
+## GESTÃO DE MENSAGENS
+- Limite: 45 msgs a cada 5h no plano atual
+- Um projeto por módulo do MBA (3 projetos no total)
+- Um chat por curso dentro do projeto
+- Novo chat quando: mudar de curso OU chat passar de ~15 trocas
+- Michele não consegue ser precisa no tipo de dúvida antecipadamente — dúvidas vêm 
+  conforme estuda, podem ser de qualquer nível, sempre precisam de passo a passo completo
+- Respostas sempre completas e sem perguntas desnecessárias
+```
